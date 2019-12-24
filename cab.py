@@ -34,7 +34,7 @@ while i>0:
         print("price=",destination)
 
 
-   print('\n\n\n'"name=",username)
+   print('\n\n\n'"BILL RECEIPT:"'\n'"name=",username)
    print("car type=",n)
    print("price=",destination)
    break
